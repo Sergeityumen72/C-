@@ -1,0 +1,15 @@
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.csproj.AssemblyReference.cache
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.AssemblyInfoInputs.cache
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.AssemblyInfo.cs
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.csproj.CoreCompileInputs.cache
+D:\Учеба\gitgit\Examples\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.exe
+D:\Учеба\gitgit\Examples\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.deps.json
+D:\Учеба\gitgit\Examples\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.runtimeconfig.json
+D:\Учеба\gitgit\Examples\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.dll
+D:\Учеба\gitgit\Examples\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.pdb
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.dll
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\refint\Example005_if_Else.dll
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.pdb
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.genruntimeconfig.cache
+D:\Учеба\gitgit\Examples\Example005_if_Else\obj\Debug\net6.0\ref\Example005_if_Else.dll
